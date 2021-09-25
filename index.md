@@ -6,7 +6,9 @@ I am currently a junior, majoring in **Computer Science** and minoring in **Busi
 ## About Me as a Programmer
 I strongly believe that:
 > "Testing leads to failure, and failure leads to understanding." Burt Rutan
+
 Reason being that I have done the mose learning after I failed at something and looked out how I can not cause the same mistake again.
+
 
 My most used pieces of code are:
 ```
@@ -16,16 +18,17 @@ print();
 ```
 I use printing/logging constantly when debugging code.
 
+
 Here is my [LinkedIn page](https://www.linkedin.com/in/keskinmbaha) if you would like to connect.
 
 ## As a Person
-[This is me before prom night](/profile.jpg)
+[This is me before prom night](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/profile.jpg)
 
 This summer I had gone to Colorado, so here are some pictures I took while visiting. It was a great place to take a vacation as there were lots of interesting landscapes and places to hike:
 
-[First Image](/0.jpg)
-[Second Image](/1.jpg)
-[Third Image](/2.jpg)
+![Image1](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/0.jpg)
+![Image2](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/1.jpg)
+![Image3](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/2.jpg)
 
 Some of my top movies are:
 - Goodwill Hunting
