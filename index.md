@@ -22,7 +22,8 @@ I use printing/logging constantly when debugging code.
 Here is my [LinkedIn page](https://www.linkedin.com/in/keskinmbaha) if you would like to connect.
 
 ## As a Person
-[This is me before prom night](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/profile.jpg)
+![This is me before prom night](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/profile.jpg)
+
 
 This summer I had gone to Colorado, so here are some pictures I took while visiting. It was a great place to take a vacation as there were lots of interesting landscapes and places to hike:
 
@@ -30,15 +31,18 @@ This summer I had gone to Colorado, so here are some pictures I took while visit
 ![Image2](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/1.jpg)
 ![Image3](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/2.jpg)
 
+
 Some of my top movies are:
 - Goodwill Hunting
 - Annihilation
 - Whiplash
 
+
 If I were to rank my top 3 colors, I would say:
 1. Black
 2. Red
 3. Blue
+
 
 Some things I would like to accomplish this quarter are:
 - [ ] Get used to being back in person
