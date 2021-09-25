@@ -11,10 +11,8 @@
 I am currently a junior, majoring in **Computer Science** and minoring in **Business**.
 
 ## About Me as a Programmer
-I strongly believe that:
+I strongly believe the following quote because I have done the most learning after I failed at something and looked out how I can not fall for the same mistake again:
 > "Testing leads to failure, and failure leads to understanding." Burt Rutan
-
-Reason being that I have done the mose learning after I failed at something and looked out how I can not cause the same mistake again.
 
 
 My most used pieces of code are:
