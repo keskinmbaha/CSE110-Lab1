@@ -1,5 +1,12 @@
 # Baha Keskin's User Page
 
+## Table of Contents
+[As a Student](#as-a-student)
+
+[About Me as a Programmer](#about-me-as-a-programmer)
+
+[As a Person](#as-a-person)
+
 ## As a Student
 I am currently a junior, majoring in **Computer Science** and minoring in **Business**.
 
@@ -22,7 +29,8 @@ I use printing/logging constantly when debugging code.
 Here is my [LinkedIn page](https://www.linkedin.com/in/keskinmbaha) if you would like to connect.
 
 ## As a Person
-![This is me before prom night](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/profile.jpg)
+This is me before prom night
+![Prom Night](/profile.jpg)
 
 
 This summer I had gone to Colorado, so here are some pictures I took while visiting. It was a great place to take a vacation as there were lots of interesting landscapes and places to hike:
