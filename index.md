@@ -24,6 +24,7 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/keskinmbaha) if you would
 ## As a Person
 ![This is me before prom night](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/profile.jpg)
 
+
 This summer I had gone to Colorado, so here are some pictures I took while visiting. It was a great place to take a vacation as there were lots of interesting landscapes and places to hike:
 
 ![Image1](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/0.jpg)
