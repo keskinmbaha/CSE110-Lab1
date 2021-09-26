@@ -33,9 +33,9 @@ This is me before prom night
 
 This summer I had gone to Colorado, so here are some pictures I took while visiting. It was a great place to take a vacation as there were lots of interesting landscapes and places to hike:
 
-![Image1](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/0.jpg)
-![Image2](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/1.jpg)
-![Image3](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/2.jpg)
+![Image1](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/0.jpg?raw=true)
+![Image2](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/1.jpg?raw=true)
+![Image3](https://github.com/keskinmbaha/CSE110-Lab1/blob/index-md/2.jpg?raw=true)
 
 
 Some of my top movies are:
