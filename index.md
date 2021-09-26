@@ -51,7 +51,7 @@ If I were to rank my top 3 colors, I would say:
 
 
 Some things I would like to accomplish this quarter are:
-- [ ] Get used to being back in person
+- [x] Get used to being back in person
 - [ ] Get back in shape
 - [ ] Get A- or above in my courses
 - [ ] Learn how to be a software engineer
